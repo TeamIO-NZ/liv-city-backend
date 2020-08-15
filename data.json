@@ -1,0 +1,26 @@
+{
+    "questions":[
+        {
+            "id": "0",
+            "title": "This is an example question",
+            "description": "Are you happy today"
+        }
+    ],
+    "answers": [
+        {
+            "id": "0",
+            "title": "This is an example answer",
+            "description": "Yes i am happy today.",
+            "stars": 10
+
+        }
+    ],
+    "location": [
+        {
+            "id": "",
+            "suburb": "",
+            "street": "",
+            "description": ""
+        }
+    ]
+}
